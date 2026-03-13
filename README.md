@@ -16,7 +16,7 @@ Please send bug reports, feature requests and questions to [Side FX's support](h
 
 # Compatibility
 
-Currently, the plugins has [binaries](https://github.com/sideeffects/HoudiniEngineForUnreal/releases) that have been built for UE5.6, UE5.5, and is linked with the latest production build of Houdini.
+Currently, the plugins has binaries that have been built for UE5.6, UE5.5, and is linked with the latest production build of Houdini.
 
 Source code for the plugin is available on this repository for UE5.
 
