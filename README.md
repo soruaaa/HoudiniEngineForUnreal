@@ -58,7 +58,7 @@ You can learn how to export an Houdini Digital Assets (HDA), import it into Unre
 
 # Building from source
 
-01. Get the UE source code from: https://github.com/EpicGames/UnrealEngine/releases
+01. Get the UE source code from: https://github.com/soruaaa/HoudiniEngineForUnreal/
 01. Within the UE source, navigate to `Engine/Plugins/Runtime`, and clone this repo into a folder named `HoudiniEngine`. Alternatively, you can also install the plugin in your project, in the `Plugins/Runtime` directory.
 01. Download and install the correct build of 64-bit Houdini. To get the build number, look at the header of `Source/HoudiniEngine/HoudiniEngine.Build.cs`, under `Houdini Version`.
 01. Generate the UE Project Files (by running `GenerateProjectFiles`) and build Unreal, either in x64 `Debug Editor` or x64 `Development Editor`.
